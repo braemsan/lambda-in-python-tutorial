@@ -36,3 +36,19 @@ def lambda_handler(event, context):
  ```
 
 9. Click Deploy.
+
+## Create a Test Event and Execute Lambda
+
+1. Select Test > Configure test event.
+2. For Event name, type mytest.
+3. In the Event JSON box, replace the sample code with the following:
+```
+{ "first_name": "Your First Name Here", "last_name": "Your Last Name Here" }
+```
+4. Update the code to use your first and last name.
+5. Click Format JSON.
+6. Click Save.
+7. Click Test.
+8. Review the execution results that appear.
+
+
