@@ -54,4 +54,6 @@ def lambda_handler(event, context):
 
 ##Conclusion
 
+When you see this,
+![This is an image](https://github.com/braemsan/gitlab-runner-on-ec2/blob/main/Screenshot%202022-08-19%20at%204.13.58%20PM.png)
 Congratulations — you've completed this tutorial!
